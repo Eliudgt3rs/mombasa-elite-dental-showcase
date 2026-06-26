@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
-    base: process.env.VITE.BASE_PATH || '/mombasa-elite-dental-showcase',
+    base: process.env.VITE_BASE_PATH || '/mombasa-elite-dental-showcase',
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),

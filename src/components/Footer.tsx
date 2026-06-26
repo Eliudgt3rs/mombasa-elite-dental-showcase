@@ -1,3 +1,4 @@
+import React from "react";
 import { 
   Facebook, Instagram, Linkedin, Youtube, MapPin, Phone, Mail, Clock, Smile 
 } from "lucide-react";
