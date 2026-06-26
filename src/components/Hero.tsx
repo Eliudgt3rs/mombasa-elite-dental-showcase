@@ -1,4 +1,5 @@
 import { ArrowRight, Cpu, Award, ShieldAlert, Sparkles, Star } from "lucide-react";
+import mainImage from "../picha/main.jpeg";
 
 interface HeroProps {
   onScheduleClick: () => void;
@@ -98,7 +99,7 @@ export default function Hero({ onScheduleClick, onExploreClick }: HeroProps) {
               {/* Main Premium Image */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl shadow-slate-900/10 border-4 border-white aspect-[4/5] md:aspect-square lg:aspect-[4/5] group">
                 <img
-                  src="https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&q=80&w=800"
+                  src={mainImage}
                   alt="Mombasa Dental Studio Suite"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-in-out"
                   referrerPolicy="no-referrer"
