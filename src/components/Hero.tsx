@@ -108,7 +108,7 @@ export default function Hero({ onScheduleClick, onExploreClick }: HeroProps) {
                 <div className="absolute bottom-6 left-6 right-6 glass-card p-4 rounded-2xl border border-white/40 flex items-center justify-between shadow-lg">
                   <div className="space-y-0.5">
                     <p className="font-sans text-xs font-medium text-slate-500">Clinic Standard</p>
-                    <p className="font-serif text-lg font-bold text-slate-900">5-Star Boutique</p>
+                    <p className="font-serif text-lg font-bold text-slate-900">5-Star Dentist</p>
                   </div>
                   <div className="bg-teal-600 text-white px-3 py-1.5 rounded-lg font-sans text-xs font-semibold uppercase tracking-wide">
                     100% Painless
