@@ -1,6 +1,6 @@
 {
-  "name": "Mombasa Elite Dental",
-  "description": "Ultra-clean, modern, medical-luxury single-page website for Mombasa Elite Dental private clinic, featuring services, client booking portal, and fully responsive layouts.",
+  "name": "Mombasa Dental",
+  "description": "Ultra-clean, modern, medical-luxury single-page website for Mombasa Dental private clinic, featuring services, client booking portal, and fully responsive layouts.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

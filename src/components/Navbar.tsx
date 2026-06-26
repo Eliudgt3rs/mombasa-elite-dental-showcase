@@ -62,7 +62,7 @@ export default function Navbar({ onBookClick }: NavbarProps) {
             </div>
             <div>
               <span className="font-serif text-lg font-bold tracking-tight text-slate-900 leading-none block">
-                Mombasa Elite
+                Mombasa
               </span>
               <span className="font-sans text-xs uppercase tracking-widest font-semibold text-teal-600 block">
                 Dental Clinic

@@ -25,7 +25,7 @@ export default function Footer({ onQuickLinkClick }: FooterProps) {
               </div>
               <div>
                 <span className="font-serif text-base font-bold tracking-tight block leading-none">
-                  Mombasa Elite
+                  Mombasa
                 </span>
                 <span className="font-sans text-[10px] uppercase tracking-widest text-teal-400 block font-semibold">
                   Dental Clinic
@@ -168,7 +168,7 @@ export default function Footer({ onQuickLinkClick }: FooterProps) {
       <div className="border-t border-slate-800/80 bg-slate-950/40 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="font-sans text-xs text-slate-500 text-center sm:text-left">
-            &copy; {currentYear} Mombasa Elite Dental Clinic. All Rights Reserved. Designed to Medical-Luxury Standards.
+            &copy; {currentYear} Mombasa Dental Clinic. All Rights Reserved. Designed to Medical-Luxury Standards.
           </p>
           <div className="flex items-center space-x-6 text-[11px] text-slate-500 font-sans">
             <a href="#privacy" className="hover:underline hover:text-slate-300 transition-all">Privacy Policy</a>

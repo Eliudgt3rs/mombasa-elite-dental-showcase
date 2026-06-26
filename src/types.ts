@@ -120,7 +120,7 @@ export const testimonials: TestimonialItem[] = [
     name: "Amina Omar",
     role: "Mombasa Resident",
     rating: 5,
-    text: "The porcelain veneers created by Mombasa Elite Dental completely changed my life. The level of care, the premium environment, and the gentle approach was unlike anything I've experienced in Kenya before.",
+    text: "The porcelain veneers created by Mombasa Dental completely changed my life. The level of care, the premium environment, and the gentle approach was unlike anything I've experienced in Kenya before.",
     avatarUrl: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=120"
   },
   {
@@ -128,7 +128,7 @@ export const testimonials: TestimonialItem[] = [
     name: "Dr. Ken Mwangi",
     role: "Corporate Executive",
     rating: 5,
-    text: "I was extremely anxious about getting an implant. Mombasa Elite Dental used digital imaging and complete local numbing—the procedure was entirely pain-free. I highly recommend their implant center.",
+    text: "I was extremely anxious about getting an implant. Mombasa Dental used digital imaging and complete local numbing—the procedure was entirely pain-free. I highly recommend their implant center.",
     avatarUrl: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=120"
   },
   {

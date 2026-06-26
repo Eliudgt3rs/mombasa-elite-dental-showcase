@@ -134,7 +134,7 @@ export default function App() {
                     Meets Oceanfront Tranquility
                   </h2>
                   <p className="font-sans text-sm sm:text-base text-slate-500 leading-relaxed">
-                    Mombasa Elite Dental was founded to challenge the sterile, stressful atmosphere of conventional dentistry. Located in the beautiful residential enclave of Nyali, our clinic delivers clinical sophistication paired with the discrete hospitality of a premium wellness hotel.
+                    Mombasa Dental was founded to challenge the sterile, stressful atmosphere of conventional dentistry. Located in the beautiful residential enclave of Nyali, our clinic delivers clinical sophistication paired with the discrete hospitality of a premium wellness hotel.
                   </p>
                 </div>
 

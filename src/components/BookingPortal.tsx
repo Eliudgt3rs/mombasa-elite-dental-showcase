@@ -589,7 +589,7 @@ export default function BookingPortal({ preselectedTreatment }: BookingPortalPro
                       <span className="text-teal-600">{formData.fullName}</span>
                     </h4>
                     <p className="font-sans text-sm text-slate-500 max-w-md mx-auto leading-relaxed">
-                      We have generated your elite dental ticket. A Mombasa Elite representative will call your number (<strong className="text-slate-800">{formData.phone}</strong>) within 15 minutes to lock down your consultation time.
+                      We have generated your elite dental ticket. A Mombasa representative will call your number (<strong className="text-slate-800">{formData.phone}</strong>) within 15 minutes to lock down your consultation time.
                     </p>
                   </div>
 
